@@ -52,7 +52,7 @@ printf " \e[1;31mMMMM\e[0m                                                      
 
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by cyber kallan (thanks to linuxchoice )\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by Royal (thanks to Ankit Mishra 😋😋 )\e[0m\n"
 
 }
 
